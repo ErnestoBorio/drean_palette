@@ -28,3 +28,4 @@ Paleta de 16 colores (*Drean palette*).
 ## Uso
 
 La paleta se encuentra disponible en formato JSON en [`drean_palette.json`](drean_palette.json).
+
